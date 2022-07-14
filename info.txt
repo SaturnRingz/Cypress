@@ -1,0 +1,6 @@
+Aquí guardo todas mis pruebas y mis labs de Cypress
+
+Instalación node.js----------------> https://www.youtube.com/watch?v=d2KYz8Qd6FE
+Si tienes problemas con la instalación de NPM---> https://stackoverflow.com/questions/26571326/how-do-i-resolve-the-following-packages-have-unmet-dependencies
+si tampoco sirve -----------------> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+Instalación Cypress Linux----------> sudo npm install -g cypress --unsafe-perm [hay mil errores de permisos en este paso. Suerte]

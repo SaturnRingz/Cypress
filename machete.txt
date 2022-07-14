@@ -1,0 +1,4 @@
+npm init /----> crea un nuevo paquete
+npm install cypress --save-dev /----> instala cypress
+node_modules\.bin\cypress open /----> abre la interfaz gráfica de cypress (puedes usar solo 'cypress open')
+node_modules\.bin\cypress run /----> ejecuta cypress sin interfaz grafica
